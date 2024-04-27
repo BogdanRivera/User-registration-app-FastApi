@@ -71,7 +71,7 @@ IV. Go to Authorize button:
 and copy the body response, then 'Authorize': 
 
 
-![validator](https://github.com/BogdanRivera/User-registration-app-FastApi-Backend/assets/121648408/df1e0ec8-1b87-45a2-9f3d-a910308194d6)
+[validator](https://github.com/BogdanRivera/User-registration-app-FastApi-Backend/assets/121648408/df1e0ec8-1b87-45a2-9f3d-a910308194d6)
 
 
 
