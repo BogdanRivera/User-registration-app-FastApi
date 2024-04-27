@@ -1,5 +1,3 @@
-![bodyResponse](https://github.com/BogdanRivera/User-registration-app-FastApi-Backend/assets/121648408/405931f3-54c4-4951-8f3e-f6013a1b0eb6)# FastAPI CRUD Application
-
 This is a simple CRUD (Create, Read, Update, Delete) application built with FastAPI, a modern web framework for building APIs with Python. The application uses SQLAlchemy to interact with a database for performing CRUD operations.
 
 ## Features
@@ -66,9 +64,15 @@ III. Copy the body response:
 ![bodyResponse](https://github.com/BogdanRivera/User-registration-app-FastApi-Backend/assets/121648408/2e0813c8-340f-4c3e-8315-7b66ca574a35)
 
 IV. Go to Authorize button: 
-![AuthorizeButton](https://github.com/BogdanRivera/User-registration-app-FastApi-Backend/assets/121648408/1c2de27a-0288-4d53-9fe1-6cda0bc8df0e)
+![AuthorizeButton](https://github.com/BogdanRivera/User-registration-app-FastApi-Backend/assets/121648408/1c2de27a-0288-4d53-9fe1-6cda0bc8df0e).
+
+
 and copy the body response, then 'Authorize': 
+
+
 ![validator](https://github.com/BogdanRivera/User-registration-app-FastApi-Backend/assets/121648408/df1e0ec8-1b87-45a2-9f3d-a910308194d6)
+
+
 
 V. All is ready to use the aplication!!
 
