@@ -78,7 +78,7 @@ and copy the body response, then 'Authorize':
 V. All is ready to use the aplication!!
 
 ## Demo: 
-You can find the demo application here: ![UserRegistration](https://user-registration-app-fastapi-backend.onrender.com/) 
+You can find the demo application here: [UserRegistration](https://user-registration-app-fastapi-backend.onrender.com/) 
 
 ## Contributing
 
