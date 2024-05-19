@@ -6,7 +6,7 @@
 </p>
 
    <p align="center">
-   <img src="https://img.shields.io/badge/STATUS-FINALIZADO-green">
+   <img src="https://img.shields.io/badge/STATUS-FINISHED-green">
    </p>
 
    
