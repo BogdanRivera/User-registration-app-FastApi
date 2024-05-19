@@ -1,4 +1,15 @@
-# FastAPI Users Registration App
+<h1 align="center"> FastAPI Users Registration App </h1>
+
+
+<p align="center">
+  <img src="https://github.com/BogdanRivera/User-registration-app-FastApi-Backend/assets/121648408/977504b1-826d-44ad-bb2c-8cca3de91ded" alt="Project logo">
+</p>
+
+   <p align="center">
+   <img src="https://img.shields.io/badge/STATUS-FINALIZADO-green">
+   </p>
+
+   
 This is a simple CRUD (Create, Read, Update, Delete) application built with FastAPI, a modern web framework for building APIs with Python. The application uses SQLAlchemy to interact with a database for performing CRUD operations.
 
 ## Features
